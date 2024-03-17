@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "corona australis.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

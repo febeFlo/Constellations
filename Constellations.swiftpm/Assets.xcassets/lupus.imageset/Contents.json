@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "lupus.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
